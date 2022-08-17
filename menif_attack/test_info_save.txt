@@ -1,0 +1,2 @@
+model global_model_g_count_9.pkl before protecting: 0.6171875 
+modelprotected_global_model_g_count_9_layers123.pkl after protecting: 0.5703125 
